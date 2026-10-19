@@ -32,12 +32,8 @@ W repozytorium mogą znaleźć się zadania związane z:
 
 - podstawami programowania,
 - algorytmami i strukturami danych,
-- programowaniem obiektowym (OOP),
-- analizą złożoności algorytmów,
-- bazami danych,
 - rozwiązywaniem problemów matematycznych przy użyciu kodu,
-- projektami realizowanymi indywidualnie lub zespołowo.
-
+  
 ## 🎯 Cele
 
 - 📈 Systematyczne rozwijanie umiejętności programistycznych.
