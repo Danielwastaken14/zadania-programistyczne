@@ -17,23 +17,6 @@ Repozytorium zawiera zbiór rozwiązań zadań programistycznych, projektów ora
 
 Głównym celem jest dokumentowanie postępów w nauce, rozwijanie umiejętności programistycznych oraz gromadzenie kodu w jednym miejscu, tak aby można było do niego wracać w przyszłości.
 
-## 📂 Struktura repozytorium
-
-```text
-📦 zadania-programistyczne
- ┣ 📂 semestr-1
- ┃ ┣ 📂 programowanie
- ┃ ┣ 📂 algorytmy
- ┃ ┗ 📂 matematyka
- ┣ 📂 semestr-2
- ┃ ┣ 📂 programowanie-obiektowe
- ┃ ┗ 📂 struktury-danych
- ┣ 📂 projekty
- ┗ 📜 README.md
-```
-
-*Struktura ma charakter przykładowy i będzie rozwijana wraz z kolejnymi semestrami.*
-
 ## 🛠️ Technologie
 
 Technologie i języki programowania wykorzystywane w zadaniach:
