@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-Computer%20Science-blue?style=for-the-badge&logo=github" alt="University" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Python%20%7C%20Java-orange?style=for-the-badge" alt="Languages" />
-  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" alt="Status" />
+
 </p>
 
 <p align="center">
@@ -40,9 +39,6 @@ Głównym celem jest dokumentowanie postępów w nauce, rozwijanie umiejętnośc
 Technologie i języki programowania wykorzystywane w zadaniach:
 
 - 💻 **C++**
-- 🐍 **Python**
-- ☕ **Java**
-- 🗄️ **SQL**
 - 🔧 **Git & GitHub**
 
 *Lista będzie aktualizowana w miarę poznawania kolejnych technologii.*
