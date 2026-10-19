@@ -1,0 +1,84 @@
+# ==============================
+# Pliki wykonywalne
+# ==============================
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+
+# ==============================
+# Pliki kompilacji C / C++
+# ==============================
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.pdb
+*.ilk
+*.pch
+*.gch
+*.class
+
+# Foldery kompilacji
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# ==============================
+# Pliki tymczasowe i logi
+# ==============================
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*~
+
+# ==============================
+# Visual Studio
+# ==============================
+.vs/
+*.sln.docstates
+
+# ==============================
+# Visual Studio Code
+# ==============================
+.vscode/
+
+# ==============================
+# JetBrains (CLion, IntelliJ, PyCharm)
+# ==============================
+.idea/
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# ==============================
+# System operacyjny
+# ==============================
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ==============================
+# Pliki środowiskowe i sekrety
+# ==============================
+.env
+.env.*
+!.env.example
